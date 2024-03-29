@@ -1,0 +1,14 @@
+E:\C#\C#_REPOS\Assignment2\Assignment2\bin\Debug\net8.0\Assignment2.exe
+E:\C#\C#_REPOS\Assignment2\Assignment2\bin\Debug\net8.0\Assignment2.deps.json
+E:\C#\C#_REPOS\Assignment2\Assignment2\bin\Debug\net8.0\Assignment2.runtimeconfig.json
+E:\C#\C#_REPOS\Assignment2\Assignment2\bin\Debug\net8.0\Assignment2.dll
+E:\C#\C#_REPOS\Assignment2\Assignment2\bin\Debug\net8.0\Assignment2.pdb
+E:\C#\C#_REPOS\Assignment2\Assignment2\obj\Debug\net8.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C#_REPOS\Assignment2\Assignment2\obj\Debug\net8.0\Assignment2.AssemblyInfoInputs.cache
+E:\C#\C#_REPOS\Assignment2\Assignment2\obj\Debug\net8.0\Assignment2.AssemblyInfo.cs
+E:\C#\C#_REPOS\Assignment2\Assignment2\obj\Debug\net8.0\Assignment2.csproj.CoreCompileInputs.cache
+E:\C#\C#_REPOS\Assignment2\Assignment2\obj\Debug\net8.0\Assignment2.dll
+E:\C#\C#_REPOS\Assignment2\Assignment2\obj\Debug\net8.0\refint\Assignment2.dll
+E:\C#\C#_REPOS\Assignment2\Assignment2\obj\Debug\net8.0\Assignment2.pdb
+E:\C#\C#_REPOS\Assignment2\Assignment2\obj\Debug\net8.0\Assignment2.genruntimeconfig.cache
+E:\C#\C#_REPOS\Assignment2\Assignment2\obj\Debug\net8.0\ref\Assignment2.dll
